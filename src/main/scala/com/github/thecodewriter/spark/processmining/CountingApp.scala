@@ -1,4 +1,4 @@
-package com.github.thecodewriter.spark.process-miner.spark-process-minig
+package com.github.thecodewriter.spark.processmining
 
 import org.apache.spark.{SparkConf, SparkContext}
 

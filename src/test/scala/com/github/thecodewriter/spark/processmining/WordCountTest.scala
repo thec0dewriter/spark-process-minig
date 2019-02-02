@@ -1,4 +1,5 @@
-package com.github.thecodewriter.spark.process-miner.spark-process-minig
+package com.github.thecodewriter.spark.processmining
+
 
 /**
  * A simple test for everyone's favourite wordcount example.
