@@ -5,6 +5,7 @@ dist: trusty
 cache:
   directories:
     - $HOME/.ivy2/cache
+    - $HOME/.sonar/cache
 
 
 jdk:
