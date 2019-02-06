@@ -7,7 +7,7 @@ lazy val root = (project in file(".")).
       organization := "com.github.thecodewriter.spark.process-miner",
       scalaVersion := "2.11.8"
     )),
-    name := "spark-process-minig",
+    name := "spark-process-mining",
 
     sparkVersion := "2.3.0",
     sparkComponents := Seq(),
