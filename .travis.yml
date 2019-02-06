@@ -6,7 +6,7 @@ cache:
   directories:
     - $HOME/.ivy2/cache
     - $HOME/.sonar/cache
-
+    - $HOME/.sbt/launchers
 
 jdk:
   - oraclejdk8
